@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'XXXXXXXXXXXXXXXX',
-    authDomain: 'xxxxxxxxxxxxxxx.firebaseapp.com',
-    databaseURL: 'https://xxxxxxxxxxxxxxx.firebaseio.com',
-    projectId: 'xxxxxxxxxxxxxxx',
-    storageBucket: 'xxxxxxxxxxxxxxx.appspot.com',
-    messagingSenderId: 'xxxxxxxxx',
-    appId: '1:xxxxxxxxx:web:xxxxxxxxxxx',
+    apiKey: 'AIzaSyAn9jI_GCS0RLAGJd6IYRxPxpNHHUAKPKU',
+    authDomain: 'afirmacion-70c45.firebaseapp.com',
+    databaseURL: 'https://afirmacion-70c45-default-rtdb.firebaseio.com',
+    projectId: 'afirmacion-70c45',
+    storageBucket: 'afirmacion-70c45.appspot.com',
+    messagingSenderId: '682958016568',
+    appId: '1:682958016568:web:1d3911545525b099c856cd',
   },
 };
 
